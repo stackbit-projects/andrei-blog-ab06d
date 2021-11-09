@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Try 2 Page
 subtitle: lorem-ipsum
 img_alt: lorem-ipsum
 seo:
