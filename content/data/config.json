@@ -25,7 +25,7 @@
                 "no_follow": false
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Try",
                 "url": "/try2",
                 "style": "link",
                 "icon_class": "dev",
