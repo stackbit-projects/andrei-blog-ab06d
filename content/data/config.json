@@ -26,7 +26,7 @@
             },
             {
                 "label": "lorem-ipsum",
-                "url": "#",
+                "url": "try2",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
